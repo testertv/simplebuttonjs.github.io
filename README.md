@@ -1,7 +1,7 @@
 # SimpleButtonJS
 ## _Simple js-button for Tampermonkey / Violentmonkey / Greasemonkey_
 
-A simple way to create a button for any site using browser add-ons. The button itself is not embedded in the browser, but sits anywhere on top of it.
+A simple way to create a button for any site using browser add-ons. The button itself will be not embedded in the webpage, but sits anywhere on top of it (like a layer). Have fun!!! :)
 
 ## CODE: [Link](https://github.com/testertv/simplebuttonjs.github.io/blob/main/simplebuttonjs.js)
 
