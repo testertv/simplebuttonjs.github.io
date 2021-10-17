@@ -27,6 +27,7 @@ var buttonY = document.documentElement.clientHeight - document.documentElement.c
 
 btn.style = "position:fixed; top:" + buttonY + "px; left:" + buttonX + "px; background-color: #00ccff; font-size: 20px; cursor: pointer; width:" + button_width + "px; height:" + button_height + "px";
 btn.style.opacity = "0.5";
+
 //------------------------<button function>--------------//
 btn.onclick = function () {
 
