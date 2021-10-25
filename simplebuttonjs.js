@@ -25,7 +25,7 @@ var buttonY = document.documentElement.clientHeight - document.documentElement.c
 //------------------------<button style>--------------//
 //btn.style = "position:fixed; top:" + buttonY + "px; left:" + buttonX + "px; background-color: white; border: none; color: #8e8e8e; padding: 0px 0px; text-align: center; text-decoration: none; font-family: ; display: inline-block; font-size: 20px; margin: 0px 0px; cursor: pointer; width: 30px; height: 30px";
 
-btn.style = "position:fixed; top:" + buttonY + "px; left:" + buttonX + "px; background-color: #00ccff; font-size: 20px; cursor: pointer; width:" + button_width + "px; height:" + button_height + "px";
+btn.style = "position:fixed; top:" + buttonY + "px; left:" + buttonX + "px; background-color: #00ccff; border-radius: 20px; font-size: 20px; cursor: pointer; width:" + button_width + "px; height:" + button_height + "px";
 btn.style.opacity = "0.5";
 
 //------------------------<button function>--------------//
